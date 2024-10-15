@@ -4,7 +4,6 @@ A basic Next.js starter.
 
 - [Next Start](#next-start)
   - [Stack](#stack)
-  - [Branches](#branches)
   - [Setup](#setup)
   - [Resources](#resources)
 
