@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { Suspense } from "react";
 
 import AppNavbar from "@/components/app-navbar";
 import Providers from "@/components/providers";
